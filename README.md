@@ -38,6 +38,7 @@ Update provides java interface IPlatformConfiguration. IPlatformConfiguration re
 ![splash](https://raw.githubusercontent.com/eclipse-platform/eclipse.platform/6e7330694b94567db6d8e1dcd756299cb66b4114/platform/org.eclipse.platform/splash.bmp)
 ![splash](https://raw.githubusercontent.com/eclipse-platform/eclipse.platform/cf3efb046f9dca8b451baffdcb625bc21450c5e3/platform/org.eclipse.platform/splash.png)
 ![splash](https://raw.githubusercontent.com/eclipse-platform/eclipse.platform/94dcf07415e9efe8f2760e7f71a4b6c40f97deda/platform/org.eclipse.platform/splash.png)
+![splash](https://raw.githubusercontent.com/eclipse-platform/eclipse.platform/8372d8d5e2b09825bafac85da23eab89198dfe3d/platform/org.eclipse.platform/splash.png)
 
 ### Extras
 
